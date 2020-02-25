@@ -1,0 +1,11 @@
+{
+
+  "leaves": {
+    "isotropic": true,
+    "textures": "leaves",
+    "carried_textures": "leaves_carried",
+    "brightness_gamma": 0.80,
+    "sound": "grass"
+  }
+  
+}

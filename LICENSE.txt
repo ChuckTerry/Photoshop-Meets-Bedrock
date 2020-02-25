@@ -1,0 +1,16 @@
+- Copyright (c) 2020 Charles Terry all rights reserved
+
+- Plain Text License
+I, Charles Terry, reserve all rights to any and all content published within this repository.  Anyone with access to this repository is allowed to use and modify the contents for private use only.  This should not be misconstrued as allowing someone the right to distribute among friends or colleagues any product derived from this repository or it's contents.  ANY use beyond private use must be granted by myself in writing.
+
+- Length of Effect and License Renewal
+Permission to use the contents of this repository for private use is granted for a 7 day period from the time of reading this license IF viewed on github.com.  Renewal of this 7 day license may be achieved by navigating to the most up-to-date repository root on github.com and, again, reading this license.  The terms and effects of this license are subject to change at any time without notice.
+
+- Notice of Intent
+This license is placed in effect due to the wide variety of licenses that apply to individual works contained within this repository, specifically: images.  It is my intent to eventually own the copyright to all works within the repository and move to a non-commercial, open source license.  Currently, however, this is impossible.  If you would like permission to use a file within the repository beyond private use, please do not hesitate to contact me.  I will happily grant licensed use of content if, and only if, I own that content.  In the event that I do not own the content, I may still be able to provide you with information about obtaining permission to use the content.
+
+- Compliance With Content Licenses
+If you believe that this repository violates your personal copyright, or contains works which you hold the copyright to, or is in violation of a license, please contact me at ct.jcpm@gmail.com with your complaint. All notices will be promptly addressed and remedied.
+
+- Warrnaty and Liability Statement
+ALL CONTENT CONTAINED WITHIN THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

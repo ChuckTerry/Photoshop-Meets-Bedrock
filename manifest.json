@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Resource Add-On for Minecrfat Bedrock Edition using custom made 128x128 textures.",
+        "name": "Photoshop Meets Bedrock",
+        "uuid": "e69ba521-f9a5-4800-a999-a22d91b1f76d",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Photoshop Meets Bedrock Resources",
+            "type": "resources",
+            "uuid": "ed44e135-f531-49f9-9b01-c79e94818745",
+            "version": [0, 0, 1]
+        }
+    ]
+}
